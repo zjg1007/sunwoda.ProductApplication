@@ -1,0 +1,2803 @@
+--------------------------------
+2020-06-01 09:49:55|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 09:59:48|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 10:03:48|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 10:04:36|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 16:54:05|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 16:54:17|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 16:54:21|
+【当前执行方法】：GetBlogs 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.Models.BlogArticle]]]
+--------------------------------
+2020-06-01 17:00:39|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-01 17:00:47|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-01 17:02:37|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：Object reference not set to an instance of an object.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-01 17:17:56|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：Object reference not set to an instance of an object.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-01 17:43:40|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-01 17:43:42|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-01 17:43:50|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-01 17:46:28|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-01 17:46:40|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-01 17:46:41|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-01 17:46:45|
+【当前执行方法】：DeviceChanged 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceChangedParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.DeviceChangedReturns]]
+--------------------------------
+2020-06-01 17:47:24|
+【当前执行方法】：OldShipCartChanged 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.OldShipCartChangedParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.OldShipCartChangedReturns]]
+--------------------------------
+2020-06-01 17:48:00|
+【当前执行方法】：OldShipCartChanged 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.OldShipCartChangedParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.OldShipCartChangedReturns]]
+--------------------------------
+2020-06-01 17:48:03|
+【当前执行方法】：GetShipCartCoat 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCartCoatParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCartCoatReturns]]
+--------------------------------
+2020-06-01 17:48:06|
+【当前执行方法】：GetShipCartCoat 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCartCoatParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCartCoatReturns]]
+--------------------------------
+2020-06-01 17:48:07|
+【当前执行方法】：GetShipCartCoat 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCartCoatParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCartCoatReturns]]
+--------------------------------
+2020-06-01 17:48:24|
+【当前执行方法】：GetShipCartCoat 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCartCoatParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCartCoatReturns]]
+--------------------------------
+2020-06-01 17:48:28|
+【当前执行方法】：GetShipCartCoat 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCartCoatParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCartCoatReturns]]
+--------------------------------
+2020-06-28 11:34:39|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-28 13:44:42|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-28 13:44:57|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 13:44:57|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 13:45:07|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 19:28:52|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-28 19:29:47|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:29:52|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-06-28 19:29:56|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-06-28 19:30:06|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-06-28 19:30:09|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:30:10|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:30:21|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:30:35|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:32:15|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:33:03|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:41:12|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:41:28|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 19:42:04|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 19:42:06|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+方法执行中出现异常：SqlSugarException.NotSupportedException： "binarydouble" Type NotSupported, DbBindProvider.GetPropertyTypeName error.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 19:42:16|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 19:42:27|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+方法执行中出现异常：SqlSugarException.NotSupportedException： "binarydouble" Type NotSupported, DbBindProvider.GetPropertyTypeName error.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 19:42:50|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:10:35|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:10:38|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+方法执行中出现异常：SqlSugarException.NotSupportedException： "binarydouble" Type NotSupported, DbBindProvider.GetPropertyTypeName error.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:11:18|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:11:26|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:11:37|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:11:48|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:14:37|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:15:37|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:15:42|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:15:47|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:43:58|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:44:07|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:45:50|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:45:56|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:50:56|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:51:07|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+方法执行中出现异常：SqlSugarException.NotSupportedException： "binarydouble" Type NotSupported, DbBindProvider.GetPropertyTypeName error.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:54:28|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]
+--------------------------------
+2020-06-28 20:59:39|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 20:59:46|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:04:16|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:04:24|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:04:37|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:07:12|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:07:16|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:12:56|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:12:59|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:16:12|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:16:14|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:18:07|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 21:18:09|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 23:10:23|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:10:44|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:10:50|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-28 23:10:56|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:10:59|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:12:16|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:12:25|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:12:30|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:13:00|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:14:54|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:14:55|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-28 23:14:57|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 23:16:12|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-28 23:16:20|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 23:25:12|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-28 23:25:14|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-28 23:25:16|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-28 23:25:17|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-28 23:25:19|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-28 23:28:57|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Object reference not set to an instance of an object.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-28 23:38:51|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-28 23:39:01|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-28 23:39:07|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 14:33:25|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 14:33:27|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 14:33:29|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 14:33:30|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 14:33:33|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 14:37:58|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 14:38:00|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 14:39:05|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 14:44:19|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 14:44:21|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 14:44:54|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 14:47:03|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 14:48:29|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 14:48:37|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:15:17|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 15:15:19|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 15:15:21|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 15:15:26|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:15:28|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:15:52|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 15:15:59|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 15:34:04|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:34:53|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:36:16|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:36:18|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:36:24|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:36:27|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:39:13|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 15:39:18|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:39:20|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:40:03|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Object reference not set to an instance of an object.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 15:41:14|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Object reference not set to an instance of an object.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 15:45:25|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:45:38|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:45:44|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:45:58|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:46:03|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:46:54|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:47:05|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:47:07|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:48:17|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 15:48:21|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:48:30|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 15:51:10|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:07:46|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:07:46|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:07:52|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:07:58|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:08:06|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:12:29|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-29 16:12:38|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:12:38|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:12:42|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:12:46|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:12:50|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:13:24|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:13:58|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:15:43|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:15:48|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:16:14|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:16:16|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:16:23|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:29:29|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：ORA-12570: Network Session: Unexpected packet read errorOracleInternal.Network.NetworkException (0x80004005): ORA-12570: Network Session: Unexpected packet read error ---> System.Net.Sockets.SocketException (10060): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   at OracleInternal.Network.ReaderStream.Read(OraBuf OB)
+   at OracleInternal.Network.ReaderStream.Read(OraBuf OB)
+   at OracleInternal.TTC.OraBufReader.GetDataFromNetwork()
+   at OracleInternal.TTC.OraBufReader.Read(Boolean bIgnoreData)
+   at OracleInternal.TTC.TTCExecuteSql.ReceiveExecuteResponse(Accessor[]& defineAccessors, Accessor[] bindAccessors, Boolean bHasReturningParams, SQLMetaData& sqlMetaData, SqlStatementType statementType, Int64 noOfRowsFetchedLastTime, Int32 noOfRowsToFetch, Int32& noOfRowsFetched, Int64& queryId, Int32 longFetchSize, Int64 initialLOBFetchSize, Int64[] scnFromExecution, Boolean bAllInputBinds, Int32 arrayBindCount, DataUnmarshaller& dataUnmarshaller, MarshalBindParameterValueHelper& marshalBindParamsHelper, Int64[]& rowsAffectedByArrayBind, Boolean bDefineDone, Boolean& bMoreThanOneRowAffectedByDmlWithRetClause, List`1& implicitRSList, Boolean bLOBArrayFetchRequired)
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-06-29 16:30:15|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:30:20|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:30:25|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:30:28|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:30:31|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:30:36|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:32:58|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:33:03|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:33:10|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:33:11|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:33:13|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:33:16|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:33:19|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:33:41|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:34:26|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:34:26|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:34:31|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:34:31|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:34:33|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:34:36|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:34:37|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:34:55|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:34:58|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:35:00|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:35:03|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:35:58|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:36:34|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:36:48|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:38:02|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:38:09|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-29 16:38:10|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-29 16:38:12|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-29 16:38:13|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-29 16:38:19|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:38:43|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-29 16:38:51|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-29 16:38:56|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-29 16:39:00|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-30 09:37:20|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-06-30 09:37:22|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-06-30 09:37:24|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-30 09:37:27|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-30 09:37:30|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-30 09:37:37|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-06-30 09:37:40|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-06-30 09:37:46|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-06-30 09:37:52|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-06-30 09:37:53|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-06-30 09:38:04|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-30 09:39:04|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:41:29|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-30 09:43:07|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:43:57|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:44:02|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-30 09:44:04|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-30 09:44:12|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:44:31|
+【当前执行方法】：GetItemInfo 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationGetItemInfoParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationItems]]
+--------------------------------
+2020-06-30 09:44:32|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:44:37|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-06-30 09:44:39|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-06-30 09:44:41|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-07-09 16:44:41|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 16:44:44|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:46:36|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:46:40|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 16:46:41|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:47:10|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:47:11|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 16:47:16|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 16:47:16|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:47:16|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 16:55:35|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:55:35|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 16:55:37|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 16:55:37|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:55:38|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 16:55:47|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 16:55:48|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 16:55:48|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:11:31|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:11:32|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:11:39|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:11:39|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:11:43|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:11:43|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:11:44|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:14:40|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:14:40|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:14:46|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:14:47|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:14:50|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:14:51|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:14:56|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:14:56|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:14:56|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:15:01|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:15:01|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:15:01|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:16:42|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:16:43|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:16:43|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:21:20|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:21:27|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:21:29|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:22:08|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:22:17|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:22:18|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:22:39|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:22:40|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:22:43|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:22:44|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:22:44|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-09 17:23:07|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:23:41|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:24:23|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:24:55|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+方法执行中出现异常：The parameter format is wrong. 
+Use new{xx=xx, xx2=xx2}  or 
+Dictionary<string, object> or 
+SugarParameter [] 
+【执行完成结果】：System.Threading.Tasks.Task`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]
+--------------------------------
+2020-07-09 17:36:38|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:38:24|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:38:25|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:41:13|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:41:14|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:43:42|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:43:42|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:46:52|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:47:44|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:47:46|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:48:35|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:48:40|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAModel.AgitationModel]]]
+--------------------------------
+2020-07-09 17:50:53|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 17:50:56|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 17:59:47|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 517-MO2006280013 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:00:15|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:00:16|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:00:33|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:00:33|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:00:51|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:01:22|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:01:25|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:01:25|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:02:16|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:04:46|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:05:03|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:05:03|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:06:25|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:06:28|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:06:47|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:06:48|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:07:14|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:07:17|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:07:19|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:07:19|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:08:55|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： 20F-300 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:09:12|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-09 18:09:12|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-09 18:09:33|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:46:22|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:46:31|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 08:48:16|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:48:57|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:50:24|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:53:58|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:55:05|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 08:55:08|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:57:24|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 08:57:29|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 08:58:42|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 09:09:34|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 09:09:34|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】：  
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 09:12:06|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 09:13:11|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 09:14:49|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 09:15:06|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 09:16:02|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 09:28:04|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:27:59|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:29:53|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:30:00|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:33:51|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:37:58|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 10:38:15|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:38:16|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：English Message : Connection open error . ORA-12541: TNS: No listener
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：ORA-12541: TNS: No listener.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-10 11:38:26|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：English Message : Connection open error . ORA-12541: TNS: No listener
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：ORA-12541: TNS: No listener.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-10 11:39:26|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+方法执行中出现异常：English Message : Connection open error . ORA-12541: TNS: No listener
+Chinese Message :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，实在找不到原因请先Google错误信息：ORA-12541: TNS: No listener.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-10 11:40:55|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:44:33|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:44:38|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:45:33|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:52:10|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:52:23|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 11:54:00|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 11:54:09|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 11:55:26|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 11:59:42|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 11:59:42|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 12:00:12|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 12:00:12|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 12:01:42|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 12:01:42|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 13:52:22|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 13:52:23|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 13:53:36|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 13:53:37|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-10 13:54:02|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 13:54:02|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-10 13:54:05|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-10 13:54:05|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-10 13:54:05|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:08:33|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:08:36|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:08:36|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:08:38|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:08:43|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:08:49|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:08:56|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:13:05|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:13:06|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:13:10|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:13:19|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:13:19|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:13:22|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:13:25|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:13:29|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:13:35|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:13:44|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-07-17 09:14:06|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:14:06|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:14:09|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:14:12|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:14:45|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:14:45|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:14:50|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:14:50|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:14:50|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:21:59|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:21:59|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:22:17|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:22:18|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:22:18|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:22:20|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:22:23|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:22:26|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:22:36|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:24:45|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:25:05|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:25:05|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:26:10|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:26:10|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:26:13|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:26:13|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:26:16|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:26:16|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:26:16|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:26:19|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:27:14|
+【当前执行方法】：UpdateShipCart 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationUpdateShipCartParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationUpdateShipCartParam]]
+--------------------------------
+2020-07-17 09:27:14|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:27:14|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:28:54|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:28:59|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:28:59|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:29:02|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:29:04|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:29:09|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:29:14|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:30:12|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:30:12|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:30:14|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:30:14|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:30:23|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:30:23|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:30:23|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:30:26|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:30:30|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:30:30|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:30:33|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:30:35|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:30:39|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:30:48|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:30:48|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:32:04|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:32:04|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:32:08|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:32:09|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:32:09|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:32:11|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:32:16|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:32:16|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:32:19|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:32:21|
+【当前执行方法】：GroupKeyPress 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GroupKeyPressParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GroupKeyPressReturns]]]
+--------------------------------
+2020-07-17 09:32:26|
+【当前执行方法】：GetShipCarts 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GetShipCardParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.GetShipCardReturns]]
+--------------------------------
+2020-07-17 09:32:31|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationSubmitParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationSubmitParam]]
+--------------------------------
+2020-07-17 09:32:31|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:32:44|
+【当前执行方法】：UpdateShipCart 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationUpdateShipCartParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationUpdateShipCartParam]]
+--------------------------------
+2020-07-17 09:32:44|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:33:06|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:33:07|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:33:07|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:33:44|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:35:44|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:35:45|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:35:53|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:36:07|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:36:14|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:36:14|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:36:14|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:36:17|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:36:20|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:36:20|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:37:21|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:37:21|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:37:41|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:37:46|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:37:48|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:04|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:38:04|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:38:06|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 09:38:06|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 09:38:06|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 09:38:09|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 09:38:13|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:17|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:18|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:19|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:20|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:21|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 09:38:23|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-07-17 09:38:25|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-07-17 09:38:43|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:38:46|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:38:53|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:38:57|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:39:00|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:39:25|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:39:27|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:39:29|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:39:51|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 09:41:31|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 10:14:02|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:03:17|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 11:03:19|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 11:03:19|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 11:06:27|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 11:06:27|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 11:06:27|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 11:09:47|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 11:09:47|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 11:09:47|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 11:09:49|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 11:09:52|
+【当前执行方法】：Close 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.CloseParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.String]]
+--------------------------------
+2020-07-17 11:10:09|
+【当前执行方法】：Login 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.LoginParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.MessageModel`1[System.String],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.MessageModel`1[System.String]]]
+--------------------------------
+2020-07-17 11:10:09|
+【当前执行方法】：GlueLoad 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.GlueLoadParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.GlueLoadReturns]]]
+--------------------------------
+2020-07-17 11:10:09|
+【当前执行方法】：GetShipCartAll 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectReturns 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns],Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]]
+--------------------------------
+2020-07-17 11:10:12|
+【当前执行方法】：DeviceSelect 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.DeviceSelectParam 
+【执行完成结果】：System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns,Blog.Core.AOP.InternalAsyncHelper+<AwaitTaskWithPostActionAndFinallyAndGetResult>d__1`1[Blog.Core.Model.PDAViewModel.DeviceSelectReturns]]
+--------------------------------
+2020-07-17 11:10:14|
+【当前执行方法】：GetStepList 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.t_gule_step_infoVM 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[System.Collections.Generic.List`1[Blog.Core.Model.PDAViewModel.t_gule_step_infoVM]]]
+--------------------------------
+2020-07-17 11:10:16|
+【当前执行方法】：StrstepNameSelecte 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAViewModel.AgitationStrstepNameSelecteReturns]]
+--------------------------------
+2020-07-17 11:10:44|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:10:47|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:11:48|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:13:16|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:13:43|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:25:34|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 11:34:23|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:40:20|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:44:46|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:44:59|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:49:40|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:49:43|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 13:49:48|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 14:25:58|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 14:32:40|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 14:35:50|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]
+--------------------------------
+2020-07-17 14:47:48|
+【当前执行方法】：Submit 
+【携带的参数有】： Blog.Core.Model.PDAViewModel.AgitationDetailParam 
+方法执行中出现异常：Input string was not in a correct format.
+【执行完成结果】：System.Threading.Tasks.Task`1[Blog.Core.Model.MessageModel`1[Blog.Core.Model.PDAModel.AgitationDetailModel]]

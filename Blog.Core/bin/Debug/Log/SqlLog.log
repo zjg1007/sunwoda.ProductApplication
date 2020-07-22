@@ -1,0 +1,15 @@
+--------------------------------
+2020-05-12 10:11:05|
+【SQL参数】：@bID0:0
+
+【SQL语句】：SELECT [bID],[bsubmitter],[btitle],[bcategory],[bcontent],[btraffic],[bcommentNum],[bUpdateTime],[bCreateTime],[bRemark],[IsDeleted] FROM [BlogArticle]  WHERE ( [bID] > @bID0 )ORDER BY [bID] ASC
+--------------------------------
+2020-05-12 10:11:05|
+【SQL参数】：@bID0:0
+
+【SQL语句】：SELECT [bID],[bsubmitter],[btitle],[bcategory],[bcontent],[btraffic],[bcommentNum],[bUpdateTime],[bCreateTime],[bRemark],[IsDeleted] FROM [BlogArticle]  WHERE ( [bID] > @bID0 )ORDER BY [bID] ASC
+--------------------------------
+2020-05-12 11:48:27|
+【SQL参数】：@bID0:0
+
+【SQL语句】：SELECT [bID],[bsubmitter],[btitle],[bcategory],[bcontent],[btraffic],[bcommentNum],[bUpdateTime],[bCreateTime],[bRemark],[IsDeleted] FROM [BlogArticle]  WHERE ( [bID] > @bID0 )ORDER BY [bID] ASC
